@@ -1,2 +1,2 @@
 # john-the-revelator
-Decentralized deployment tool for Satan OS
+Decentralized deployment engine for Satan OS.
